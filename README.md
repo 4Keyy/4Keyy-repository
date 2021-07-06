@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @4Keyy
+- 👀 I’m interested in programming & sports
+- 🌱 I’m currently learning C++
